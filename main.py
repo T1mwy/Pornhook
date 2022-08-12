@@ -1,6 +1,6 @@
 import os
 import time
-
+import ultrarequests
 from requests import get, post
 from lxml import html
 from time import sleep
