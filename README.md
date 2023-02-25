@@ -1,5 +1,5 @@
 Discord webhook NSFW upload
 
-Dev by Timmy᲼#9336                                      
+Dev by T1mmy#6773                                     
 
 Enjoy
